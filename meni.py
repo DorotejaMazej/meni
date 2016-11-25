@@ -13,4 +13,4 @@ while True:
     with open('meni.txt', 'a') as file:
         file.write('{:30}'.format(jed) + cena + "\n")
 
-file.close()
+
